@@ -13,7 +13,7 @@ A Flutter application for managing and handling SMS messages with pattern matchi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sms_handler.git
+git clone https://github.com/khaho2605/sms_handler.git
 cd sms_handler
 ```
 
