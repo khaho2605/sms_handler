@@ -28,7 +28,7 @@ flutter run
 ```
 
 ## Project Structure 
-
+```bash
 lib/
 ├── app.dart              # Main app widget
 ├── main.dart            # App entry point
@@ -41,3 +41,4 @@ lib/
     ├── loading_indicator.dart
     ├── message_card.dart
     └── message_list.dart
+```
