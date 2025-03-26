@@ -21,7 +21,4 @@ class SmsService {
     }
     return await _query.getAllSms;
   }
-
-  // Note: Real-time SMS listening and sending are not supported by flutter_sms_inbox package
-  // You would need to use platform channels or another package for these features
 }
