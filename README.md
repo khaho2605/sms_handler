@@ -27,7 +27,7 @@ flutter pub get
 flutter run
 ```
 
-## Project Structure
+## Project Structure 
 
 lib/
 ├── app.dart              # Main app widget
